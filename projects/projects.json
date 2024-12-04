@@ -40,13 +40,13 @@
     }
   },
   {
-    "name": "Instagram MERN",
-    "desc": "Full-Stack Instagram clone built using MERN stack and realtime chat with the help of socket.iO",
+    "name": "Handyman Service System",
+    "desc": "A Handyman service system is a platform that connects skilled tradespeople with customers seeking home repair and maintenance services.",
     "image": "instagrammern",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://handyman-service-system.vercel.app",
+      "code": "https://github.com/MuSnr/Handyman-Service-System"
     }
   },
   {
